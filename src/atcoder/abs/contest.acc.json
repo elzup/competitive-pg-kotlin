@@ -20,19 +20,34 @@
       "id": "abc086_a",
       "label": "ABC086A",
       "title": "Product",
-      "url": "https://atcoder.jp/contests/abs/tasks/abc086_a"
+      "url": "https://atcoder.jp/contests/abs/tasks/abc086_a",
+      "directory": {
+        "path": "abc086a",
+        "testdir": "tests",
+        "submit": "main.kt"
+      }
     },
     {
       "id": "abc081_a",
       "label": "ABC081A",
       "title": "Placing Marbles",
-      "url": "https://atcoder.jp/contests/abs/tasks/abc081_a"
+      "url": "https://atcoder.jp/contests/abs/tasks/abc081_a",
+      "directory": {
+        "path": "abc081a",
+        "testdir": "tests",
+        "submit": "main.kt"
+      }
     },
     {
       "id": "abc081_b",
       "label": "ABC081B",
       "title": "Shift only",
-      "url": "https://atcoder.jp/contests/abs/tasks/abc081_b"
+      "url": "https://atcoder.jp/contests/abs/tasks/abc081_b",
+      "directory": {
+        "path": "abc081b",
+        "testdir": "tests",
+        "submit": "main.kt"
+      }
     },
     {
       "id": "abc087_b",
