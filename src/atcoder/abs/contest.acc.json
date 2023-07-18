@@ -53,13 +53,23 @@
       "id": "abc087_b",
       "label": "ABC087B",
       "title": "Coins",
-      "url": "https://atcoder.jp/contests/abs/tasks/abc087_b"
+      "url": "https://atcoder.jp/contests/abs/tasks/abc087_b",
+      "directory": {
+        "path": "abc087b",
+        "testdir": "tests",
+        "submit": "Main.kt"
+      }
     },
     {
       "id": "abc083_b",
       "label": "ABC083B",
       "title": "Some Sums",
-      "url": "https://atcoder.jp/contests/abs/tasks/abc083_b"
+      "url": "https://atcoder.jp/contests/abs/tasks/abc083_b",
+      "directory": {
+        "path": "abc083b",
+        "testdir": "tests",
+        "submit": "Main.kt"
+      }
     },
     {
       "id": "abc088_b",
