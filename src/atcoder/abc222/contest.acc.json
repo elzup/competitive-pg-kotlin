@@ -20,13 +20,23 @@
       "id": "abc222_b",
       "label": "B",
       "title": "Failing Grade",
-      "url": "https://atcoder.jp/contests/abc222/tasks/abc222_b"
+      "url": "https://atcoder.jp/contests/abc222/tasks/abc222_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.kt"
+      }
     },
     {
       "id": "abc222_c",
       "label": "C",
       "title": "Swiss-System Tournament",
-      "url": "https://atcoder.jp/contests/abc222/tasks/abc222_c"
+      "url": "https://atcoder.jp/contests/abc222/tasks/abc222_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "Main.kt"
+      }
     },
     {
       "id": "abc222_d",
